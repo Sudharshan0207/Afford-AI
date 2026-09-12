@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000.0,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,Pay IDR 15656000 today. Forecast keeps at least IDR 24768300 available.
+request_27,6670.0,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,Pay ZAR 6670 today. Forecast keeps at least ZAR 20500 available.
+request_28,221.58,not_affordable,not_recommended,none,2024-08-18,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1100 available.
+request_29,51524.0,affordable_now,full_payment,2025-11-04:51524,2025-11-04,none,Pay ZAR 51524 today. Forecast keeps at least ZAR 28300 available.
+request_30,775.2,affordable_with_plan,installments,2026-04-06:268.74|2026-05-06:268.74|2026-06-05:268.74,2026-04-06,none,Use the supplied installment schedule starting 2026-04-06. Forecast keeps at least USD 900 available.
+request_31,2501353.77,not_affordable,not_recommended,none,2024-11-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 16588900 available.
+request_32,15320.19,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 35700 available.
+request_33,42668.09,affordable_later,wait,2026-03-15:118000,2026-03-15,none,Wait until 2026-03-15 to pay INR 118000 safely. Forecast keeps at least INR 102100 available.
+request_34,129400.0,affordable_now,full_payment,2024-12-04:129400,2024-12-04,none,Pay INR 129400 today. Forecast keeps at least INR 138500 available.
+request_35,27203.35,not_affordable,not_recommended,none,2026-01-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 106400 available.
+request_36,574.9,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 2400 available.
+request_37,3111426.44,not_affordable,not_recommended,none,2024-05-23,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 17056200 available.
+request_38,235.42,affordable_later,wait,2025-10-13:971.3,2025-10-13,none,Wait until 2025-10-13 to pay EUR 971.3 safely. Forecast keeps at least EUR 400 available.
+request_39,129981.43,not_affordable,not_recommended,none,2026-06-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 213400 available.
+request_40,362.94,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1500 available.
+request_41,8340602.17,not_affordable,not_recommended,none,2026-01-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 25366600 available.
+request_42,52100.0,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,Pay INR 52100 today. Forecast keeps at least INR 113100 available.
+request_43,9868266.98,affordable_later,wait,2024-11-13:43339000,2024-11-13,none,Wait until 2024-11-13 to pay IDR 43339000 safely. Forecast keeps at least IDR 21398000 available.
+request_44,29573.31,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 82900 available.
+request_45,3311399.52,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 11149800 available.
+request_46,37015.35,affordable_with_plan,partial_payment,2024-12-03:37015.35|2024-12-15:12434.65,2024-12-15,none,Pay INR 37015.35 today and the balance on 2024-12-15. Forecast keeps at least INR 84000 available.
+request_47,38114000.0,affordable_now,full_payment,2025-05-05:38114000,2025-05-05,none,Pay IDR 38114000 today. Forecast keeps at least IDR 30049000 available.
+request_48,45700.0,affordable_now,full_payment,2026-07-25:45700,2026-07-25,none,Pay INR 45700 today. Forecast keeps at least INR 71300 available.
+request_49,11608802.11,affordable_with_plan,installments,2024-03-18:11902106.67|2024-04-18:11902106.67|2024-05-19:11902106.67,2024-05-18,none,Use the supplied installment schedule starting 2024-03-18. Forecast keeps at least IDR 20275700 available.
+request_50,43900.0,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,Pay INR 43900 today. Forecast keeps at least INR 99700 available.
+request_51,2191000.0,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,Pay IDR 2191000 today. Forecast keeps at least IDR 7811000 available.
+request_52,23304.11,affordable_later,wait,2024-06-14:28870,2024-06-14,none,Wait until 2024-06-14 to pay INR 28870 safely. Forecast keeps at least INR 41500 available.
+request_53,573.04,affordable_with_plan,installments,2025-11-21:589.06|2025-12-19:589.06|2026-01-16:589.06,2026-01-13,none,Use the supplied installment schedule starting 2025-11-21. Forecast keeps at least USD 2100 available.
+request_54,2198.44,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 37000 available.
+request_55,127979.82,not_affordable,not_recommended,none,2026-08-13,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 124300 available.
+request_56,629.03,affordable_with_plan,partial_payment,2025-02-03:629.03|2025-02-15:252.53,2025-02-15,none,Pay USD 629.03 today and the balance on 2025-02-15. Forecast keeps at least USD 2100 available.
+request_57,13134.92,affordable_later,wait,2026-06-13:61446,2026-06-13,none,Wait until 2026-06-13 to pay ZAR 61446 safely. Forecast keeps at least ZAR 42700 available.
+request_58,16226000.0,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,Pay IDR 16226000 today. Forecast keeps at least IDR 14433900 available.
+request_59,140600.0,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,2025-05-04,none,Use the supplied installment schedule starting 2025-05-07. Forecast keeps at least INR 132600 available.
+request_60,149.17,affordable_later,wait,2026-01-14:199.89,2026-01-14,none,Wait until 2026-01-14 to pay USD 199.89 safely. Forecast keeps at least USD 400 available.
+request_61,29062.0,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,Use the supplied installment schedule starting 2024-03-17. Forecast keeps at least ZAR 36700 available.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,Pay USD 404.23 today. Forecast keeps at least USD 1300 available.
+request_63,37676.54,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 153500 available.
+request_64,42342.19,not_affordable,not_recommended,none,2024-08-13,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 36100 available.
+request_65,6927.85,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 15500 available.
+request_66,22200.0,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,Pay INR 22200 today. Forecast keeps at least INR 80700 available.
+request_67,306.51,not_affordable,not_recommended,none,2024-11-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 1200 available.
+request_68,1341.72,affordable_with_plan,installments,2025-02-14:725.09|2025-03-14:725.09|2025-04-11:725.09,2025-03-24,none,Use the supplied installment schedule starting 2025-02-14. Forecast keeps at least USD 1500 available.
+request_69,529.1,affordable_now,full_payment,2026-01-04:529.1,2026-01-04,none,Pay EUR 529.1 today. Forecast keeps at least EUR 700 available.
+request_70,49828.69,not_affordable,not_recommended,none,2025-02-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 115000 available.
+request_71,272141.0,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 8884800 available.
+request_72,11330.0,affordable_now,full_payment,2026-07-05:11330,2026-07-05,none,Pay ZAR 11330 today. Forecast keeps at least ZAR 12200 available.
+request_73,71400.0,affordable_now,full_payment,2023-01-20:71400,2023-01-20,none,Pay INR 71400 today. Forecast keeps at least INR 103200 available.
+request_74,5010.0,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,Pay ZAR 5010 today. Forecast keeps at least ZAR 21900 available.
+request_75,28270.0,affordable_with_plan,installments,2026-04-09:9800.27|2026-05-09:9800.27|2026-06-08:9800.27,2026-04-06,none,Use the supplied installment schedule starting 2026-04-09. Forecast keeps at least ZAR 39000 available.
+request_76,958.47,not_affordable,not_recommended,none,2024-07-08,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 1800 available.
+request_77,59973.97,affordable_later,wait,2025-11-14:60700,2025-11-14,none,Wait until 2025-11-14 to pay INR 60700 safely. Forecast keeps at least INR 82200 available.
+request_78,45577.82,not_affordable,not_recommended,none,2025-11-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 55200 available.
+request_79,676.43,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1000 available.
+request_80,121265.92,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 121300 available.
+request_81,2076.0,affordable_now,full_payment,2026-07-03:2076,2026-07-03,none,Pay USD 2076 today. Forecast keeps at least USD 1600 available.
+request_82,177.34,not_affordable,not_recommended,none,2025-02-21,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 1100 available.
+request_83,5165.14,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 37800 available.
+request_84,27742.84,affordable_later,wait,2026-06-13:95400,2026-06-13,none,Wait until 2026-06-13 to pay INR 95400 safely. Forecast keeps at least INR 91300 available.
+request_85,360935.71,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 6396300 available.
+request_86,46300.0,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,Pay INR 46300 today. Forecast keeps at least INR 84900 available.
+request_87,18029.79,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 185900 available.
+request_88,10734.0,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-07-14,none,Use the supplied installment schedule starting 2024-06-14. Forecast keeps at least ZAR 25800 available.
+request_89,9248648.53,not_affordable,not_recommended,none,2026-01-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 12534700 available.
+request_90,2560.0,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,Pay ZAR 2560 today. Forecast keeps at least ZAR 7600 available.
+request_91,287.74,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 2100 available.
+request_92,34034.0,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,Pay ZAR 34034 today. Forecast keeps at least ZAR 28100 available.
+request_93,1729.2,affordable_now,full_payment,2026-04-07:1729.2,2026-04-07,none,Pay USD 1729.2 today. Forecast keeps at least USD 1900 available.
+request_94,572.0,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,Pay EUR 572 today. Forecast keeps at least EUR 600 available.
+request_95,4204.41,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 145500 available.
+request_96,74184.55,affordable_with_plan,installments,2026-01-10:31269.33|2026-02-09:31269.33|2026-03-11:31269.33,2026-02-14,none,Use the supplied installment schedule starting 2026-01-10. Forecast keeps at least INR 56500 available.
+request_97,1423.55,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-04-15,none,Use the supplied installment schedule starting 2024-03-19. Forecast keeps at least ZAR 29700 available.
+request_98,8806.73,affordable_later,wait,2025-10-13:27148,2025-10-13,none,Wait until 2025-10-13 to pay ZAR 27148 safely. Forecast keeps at least ZAR 30000 available.
+request_99,17027.28,affordable_with_plan,full_payment,2026-07-04:18062,2026-07-15,stop:event_9188,Pay ZAR 18062 today. Forecast keeps at least ZAR 49100 available.
+request_100,26008.76,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-07-15,none,Use the supplied installment schedule starting 2024-06-13. Forecast keeps at least ZAR 32500 available.
+request_101,143500.0,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,Pay INR 143500 today. Forecast keeps at least INR 187400 available.
+request_102,1716.0,affordable_with_plan,installments,2026-04-05:594.88|2026-05-05:594.88|2026-06-04:594.88,2026-04-05,none,Use the supplied installment schedule starting 2026-04-05. Forecast keeps at least EUR 900 available.
+request_103,9726.48,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 125500 available.
+request_104,17204.0,affordable_now,full_payment,2025-02-04:17204,2025-02-04,none,Pay ZAR 17204 today. Forecast keeps at least ZAR 24700 available.
+request_105,51001.78,affordable_later,wait,2026-06-14:53500,2026-06-14,none,Wait until 2026-06-14 to pay INR 53500 safely. Forecast keeps at least INR 73900 available.
+request_106,458.14,not_affordable,not_recommended,none,2025-02-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1200 available.
+request_107,0.0,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1600 available.
+request_108,3636.57,not_affordable,not_recommended,none,2026-08-08,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 24100 available.
+request_109,576.76,not_affordable,not_recommended,none,2024-05-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1700 available.
+request_110,22352.0,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,2025-08-06,none,Use the supplied installment schedule starting 2025-08-06. Forecast keeps at least ZAR 11200 available.
+request_111,16625000.0,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,Pay IDR 16625000 today. Forecast keeps at least IDR 23022800 available.
+request_112,271.7,affordable_now,full_payment,2024-06-05:271.7,2024-06-05,none,Pay EUR 271.7 today. Forecast keeps at least EUR 500 available.
+request_113,19968.47,affordable_later,wait,2026-10-14:36500,2026-10-14,none,Wait until 2026-10-14 to pay INR 36500 safely. Forecast keeps at least INR 82300 available.
+request_114,57121.18,affordable_later,wait,2026-01-14:65300,2026-01-14,none,Wait until 2026-01-14 to pay INR 65300 safely. Forecast keeps at least INR 113400 available.
+request_115,14906.54,affordable_later,wait,2024-11-13:80500,2024-11-13,none,Wait until 2024-11-13 to pay INR 80500 safely. Forecast keeps at least INR 38800 available.
+request_116,6707.39,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 80300 available.
+request_117,866.55,affordable_with_plan,full_payment,2026-07-05:880,2026-07-15,stop:event_10833,Pay EUR 880 today. Forecast keeps at least EUR 1000 available.
+request_118,596.34,not_affordable,not_recommended,none,2025-02-21,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 600 available.
+request_119,54542.44,not_affordable,not_recommended,none,2025-06-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 151200 available.
+request_120,7714000.0,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,Pay IDR 7714000 today. Forecast keeps at least IDR 20050300 available.
+request_121,633.6,affordable_now,full_payment,2024-03-03:633.6,2024-03-03,none,Pay USD 633.6 today. Forecast keeps at least USD 800 available.
+request_122,20558000.0,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,Use the supplied installment schedule starting 2025-08-05. Forecast keeps at least IDR 12588500 available.
+request_123,4076000.0,affordable_now,full_payment,2026-01-07:4076000,2026-01-07,none,Pay IDR 4076000 today. Forecast keeps at least IDR 18091200 available.
+request_124,1402.47,not_affordable,not_recommended,none,2024-07-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1600 available.
+request_125,6468.0,affordable_now,full_payment,2025-11-06:6468,2025-11-06,none,Pay ZAR 6468 today. Forecast keeps at least ZAR 11300 available.
+request_126,159600.0,affordable_now,full_payment,2026-07-03:159600,2026-07-03,none,Pay INR 159600 today. Forecast keeps at least INR 129700 available.
+request_127,6549.33,not_affordable,not_recommended,none,2024-11-13,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 41000 available.
+request_128,25168.0,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,Pay ZAR 25168 today. Forecast keeps at least ZAR 42600 available.
+request_129,120.67,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 800 available.
+request_130,370.72,not_affordable,not_recommended,none,2025-02-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 1400 available.
+request_131,1120.93,not_affordable,not_recommended,none,2025-07-25,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 1100 available.
+request_132,318.31,affordable_later,wait,2026-01-14:379.86,2026-01-14,none,Wait until 2026-01-14 to pay USD 379.86 safely. Forecast keeps at least USD 1100 available.
+request_133,15770000.0,not_affordable,not_recommended,none,2024-03-07,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 9986200 available.
+request_134,4354481.25,not_affordable,not_recommended,none,2025-10-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 15902500 available.
+request_135,274.79,not_affordable,not_recommended,none,2026-07-15,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 500 available.
+request_136,543.34,not_affordable,not_recommended,none,2024-06-15,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 1100 available.
+request_137,25201.95,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 71800 available.
+request_138,994.97,affordable_with_plan,partial_payment,2026-04-07:994.97|2026-04-14:261.97,2026-04-14,none,Pay EUR 994.97 today and the balance on 2026-04-14. Forecast keeps at least EUR 2300 available.
+request_139,1742.59,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-10-16,none,Use the supplied installment schedule starting 2024-09-07. Forecast keeps at least USD 1500 available.
+request_140,1273.3,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 21600 available.
+request_141,19641.96,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 67300 available.
+request_142,1263.6,affordable_now,full_payment,2024-12-05:1263.6,2024-12-05,none,Pay USD 1263.6 today. Forecast keeps at least USD 1700 available.
+request_143,2113.86,not_affordable,not_recommended,none,2025-07-17,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 11300 available.
+request_144,199.34,not_affordable,not_recommended,none,2026-08-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 600 available.
+request_145,15016.41,not_affordable,not_recommended,none,2024-05-23,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 155400 available.
+request_146,12939.76,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 108600 available.
+request_147,467.96,affordable_with_plan,installments,2026-04-08:391.63|2026-05-08:391.63|2026-06-07:391.63,2026-05-14,none,Use the supplied installment schedule starting 2026-04-08. Forecast keeps at least EUR 900 available.
+request_148,7058.61,affordable_with_plan,installments,2024-06-14:7710.56|2024-07-15:7710.56|2024-08-15:7710.56,2024-07-14,none,Use the supplied installment schedule starting 2024-06-14. Forecast keeps at least ZAR 20000 available.
+request_149,24966.26,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2025-12-16,none,Use the supplied installment schedule starting 2025-11-18. Forecast keeps at least ZAR 42100 available.
+request_150,293.99,not_affordable,not_recommended,none,2026-03-15,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 700 available.
+request_151,26999000.0,affordable_now,full_payment,2024-09-03:26999000,2024-09-03,none,Pay IDR 26999000 today. Forecast keeps at least IDR 31633600 available.
+request_152,11840.33,not_affordable,not_recommended,none,2025-04-15,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 11900 available.
+request_153,2.12,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 1400 available.
+request_154,1625.8,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,Use the supplied installment schedule starting 2024-12-04. Forecast keeps at least EUR 1300 available.
+request_155,112500.0,affordable_now,full_payment,2025-05-06:112500,2025-05-06,none,Pay INR 112500 today. Forecast keeps at least INR 56300 available.
+request_156,9591.96,affordable_later,wait,2026-06-13:43076,2026-06-13,none,Wait until 2026-06-13 to pay ZAR 43076 safely. Forecast keeps at least ZAR 26900 available.
+request_157,4990786.35,not_affordable,not_recommended,none,2024-05-18,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 15714100 available.
+request_158,242600.0,affordable_with_plan,installments,2025-08-07:84101.33|2025-09-04:84101.33|2025-10-02:84101.33,2025-08-07,none,Use the supplied installment schedule starting 2025-08-07. Forecast keeps at least INR 131400 available.
+request_159,13398.0,affordable_now,full_payment,2026-01-04:13398,2026-01-04,none,Pay ZAR 13398 today. Forecast keeps at least ZAR 8700 available.
+request_160,574.47,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-07-14,none,Use the supplied installment schedule starting 2024-06-13. Forecast keeps at least EUR 1200 available.
+request_161,0.0,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 23010400 available.
+request_162,1570482.87,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 24161100 available.
+request_163,7282233.45,not_affordable,not_recommended,none,2024-11-18,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 26728700 available.
+request_164,27018000.0,affordable_with_plan,installments,2025-02-11:9366240|2025-03-11:9366240|2025-04-08:9366240,2025-02-04,none,Use the supplied installment schedule starting 2025-02-11. Forecast keeps at least IDR 29550500 available.
+request_165,80600.0,affordable_now,full_payment,2026-04-06:80600,2026-04-06,none,Pay INR 80600 today. Forecast keeps at least INR 95000 available.
+request_166,2907.6,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,Use the supplied installment schedule starting 2024-12-03. Forecast keeps at least USD 1700 available.
+request_167,43802.0,affordable_now,full_payment,2025-05-05:43802,2025-05-05,none,Pay ZAR 43802 today. Forecast keeps at least ZAR 31200 available.
+request_168,31066.71,affordable_with_plan,partial_payment,2026-01-07:31066.71|2026-02-13:18313.29,2026-02-13,none,Pay INR 31066.71 today and the balance on 2026-02-13. Forecast keeps at least INR 114400 available.
+request_169,41976.0,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,Pay ZAR 41976 today. Forecast keeps at least ZAR 18700 available.
+request_170,31280881.78,affordable_with_plan,installments,2025-08-06:12804480|2025-09-03:12804480|2025-10-01:12804480,2025-09-13,none,Use the supplied installment schedule starting 2025-08-06. Forecast keeps at least IDR 24715800 available.
+request_171,36.34,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 500 available.
+request_172,10200.0,affordable_with_plan,installments,2024-06-05:5304|2024-07-03:5304,2024-06-05,none,Use the supplied installment schedule starting 2024-06-05. Forecast keeps at least ZAR 27200 available.
+request_173,63634.09,not_affordable,not_recommended,none,2026-01-13,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 79100 available.
+request_174,1146.2,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,2026-04-04,none,Use the supplied installment schedule starting 2026-04-04. Forecast keeps at least EUR 700 available.
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.3,2024-09-06,none,Pay EUR 2346.3 today. Forecast keeps at least EUR 1700 available.
+request_176,460.67,not_affordable,not_recommended,none,2025-03-19,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 600 available.
+request_177,1017.6,affordable_now,full_payment,2026-01-05:1017.6,2026-01-05,none,Pay USD 1017.6 today. Forecast keeps at least USD 1300 available.
+request_178,2938.1,affordable_with_plan,installments,2024-12-07:1018.54|2025-01-07:1018.54|2025-02-07:1018.54,2024-12-07,none,Use the supplied installment schedule starting 2024-12-07. Forecast keeps at least EUR 1400 available.
+request_179,6458243.33,not_affordable,not_recommended,none,2025-07-17,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 41430800 available.
+request_180,66500.0,affordable_now,full_payment,2026-07-06:66500,2026-07-06,none,Pay INR 66500 today. Forecast keeps at least INR 37300 available.
+request_181,304.0,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 2000 available.
+request_182,65714.0,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,Pay ZAR 65714 today. Forecast keeps at least ZAR 31100 available.
+request_183,22994977.87,affordable_with_plan,installments,2026-04-10:9313546.67|2026-05-10:9313546.67|2026-06-09:9313546.67,2026-05-14,none,Use the supplied installment schedule starting 2026-04-10. Forecast keeps at least IDR 11878300 available.
+request_184,7189.82,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 110800 available.
+request_185,408.4,affordable_later,wait,2026-01-13:1257.3,2026-01-13,none,Wait until 2026-01-13 to pay EUR 1257.3 safely. Forecast keeps at least EUR 1300 available.
+request_186,10869.82,affordable_later,wait,2026-03-15:26554,2026-03-15,none,Wait until 2026-03-15 to pay ZAR 26554 safely. Forecast keeps at least ZAR 22000 available.
+request_187,37718.15,affordable_later,wait,2024-11-13:187500,2024-11-13,none,Wait until 2024-11-13 to pay INR 187500 safely. Forecast keeps at least INR 128300 available.
+request_188,156.72,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 900 available.
+request_189,488.4,affordable_now,full_payment,2026-07-04:488.4,2026-07-04,none,Pay EUR 488.4 today. Forecast keeps at least EUR 400 available.
+request_190,531.09,affordable_later,wait,2025-02-13:2557.5,2025-02-13,none,Wait until 2025-02-13 to pay EUR 2557.5 safely. Forecast keeps at least EUR 1600 available.
+request_191,664.4,affordable_now,full_payment,2025-05-03:664.4,2025-05-03,none,Pay EUR 664.4 today. Forecast keeps at least EUR 500 available.
+request_192,248.77,not_affordable,not_recommended,none,2026-06-10,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 1000 available.
+request_193,22.76,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,2024-05-18,none,Use the supplied installment schedule starting 2024-03-21. Forecast keeps at least EUR 1000 available.
+request_194,33809.9,not_affordable,not_recommended,none,2025-10-24,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 113600 available.
+request_195,966.57,affordable_with_plan,installments,2026-01-09:405.74|2026-02-08:405.74|2026-03-10:405.74,2026-02-13,none,Use the supplied installment schedule starting 2026-01-09. Forecast keeps at least EUR 700 available.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.3,2024-06-03,none,Pay EUR 762.3 today. Forecast keeps at least EUR 500 available.
+request_197,0.0,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 26245900 available.
+request_198,185800.0,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,Pay INR 185800 today. Forecast keeps at least INR 124300 available.
+request_199,23674000.0,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,Use the supplied installment schedule starting 2024-09-07. Forecast keeps at least IDR 25359500 available.
+request_200,21717000.0,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,Pay IDR 21717000 today. Forecast keeps at least IDR 20114600 available.
+request_201,23997000.0,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,Pay IDR 23997000 today. Forecast keeps at least IDR 17304500 available.
+request_202,123900.0,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,Pay INR 123900 today. Forecast keeps at least INR 147800 available.
+request_203,1442.1,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-05-07,none,Use the supplied installment schedule starting 2025-05-10. Forecast keeps at least EUR 1400 available.
+request_204,578.1,affordable_later,wait,2026-01-14:588.74,2026-01-14,none,Wait until 2026-01-14 to pay EUR 588.74 safely. Forecast keeps at least EUR 1300 available.
+request_205,10621000.0,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,Pay IDR 10621000 today. Forecast keeps at least IDR 13994300 available.
+request_206,1404.7,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,2025-08-03,none,Use the supplied installment schedule starting 2025-08-03. Forecast keeps at least EUR 900 available.
+request_207,4500.84,affordable_later,wait,2026-07-15:11830,2026-07-15,none,Wait until 2026-07-15 to pay ZAR 11830 safely. Forecast keeps at least ZAR 13600 available.
+request_208,3059490.22,affordable_later,wait,2024-06-14:4413000,2024-06-14,none,Wait until 2024-06-14 to pay IDR 4413000 safely. Forecast keeps at least IDR 10470700 available.
+request_209,1687.64,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 18400 available.
+request_210,985.47,affordable_with_plan,partial_payment,2026-04-06:985.47|2026-04-14:374.55,2026-04-14,none,Pay USD 985.47 today and the balance on 2026-04-14. Forecast keeps at least USD 2000 available.
+request_211,270.95,not_affordable,not_recommended,none,2024-11-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1500 available.
+request_212,6144043.07,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 29579800 available.
+request_213,3362.4,affordable_with_plan,installments,2026-01-21:1165.63|2026-02-20:1165.63|2026-03-22:1165.63,2026-01-07,none,Use the supplied installment schedule starting 2026-01-21. Forecast keeps at least USD 2100 available.
+request_214,46815.23,affordable_with_plan,partial_payment,2024-12-04:46815.23|2024-12-16:22934.77,2024-12-16,none,Pay INR 46815.23 today and the balance on 2024-12-16. Forecast keeps at least INR 174900 available.
+request_215,29986.0,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,Use the supplied installment schedule starting 2025-05-09. Forecast keeps at least ZAR 15700 available.
+request_216,483.86,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 1800 available.
+request_217,19879.35,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-05-14,none,Use the supplied installment schedule starting 2024-03-19. Forecast keeps at least ZAR 26800 available.
+request_218,25892752.03,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-09-15,none,Use the supplied installment schedule starting 2025-08-07. Forecast keeps at least IDR 34477200 available.
+request_219,1350.1,affordable_with_plan,installments,2026-04-07:580.01|2026-05-07:580.01|2026-06-06:580.01,2026-04-14,none,Use the supplied installment schedule starting 2026-04-07. Forecast keeps at least EUR 1100 available.
+request_220,52.1,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1100 available.
+request_221,109800.0,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,Pay INR 109800 today. Forecast keeps at least INR 81500 available.
+request_222,34078.0,affordable_now,full_payment,2026-01-05:34078,2026-01-05,none,Pay ZAR 34078 today. Forecast keeps at least ZAR 27300 available.
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.7,2024-09-07,none,Pay EUR 898.7 today. Forecast keeps at least EUR 800 available.
+request_224,9604944.66,affordable_with_plan,partial_payment,2025-02-04:9604944.66|2025-02-14:722055.34,2025-02-14,none,Pay IDR 9604944.66 today and the balance on 2025-02-14. Forecast keeps at least IDR 22187600 available.
+request_225,9535064.78,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-09-13,none,Use the supplied installment schedule starting 2026-07-20. Forecast keeps at least IDR 17670700 available.
+request_226,140980.03,not_affordable,not_recommended,none,2025-02-21,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 209400 available.
+request_227,6573.3,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 62900 available.
+request_228,6300287.49,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 26191200 available.
+request_229,390.72,affordable_with_plan,installments,2024-03-18:529.29|2024-04-18:529.29|2024-05-19:529.29,2024-05-18,none,Use the supplied installment schedule starting 2024-03-18. Forecast keeps at least EUR 1000 available.
+request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.6,2025-08-06,none,Pay EUR 3537.6 today. Forecast keeps at least EUR 2000 available.
+request_231,31974.97,not_affordable,not_recommended,none,2026-02-15,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 24300 available.
+request_232,695.7,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 2400 available.
+request_233,0.0,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 10365700 available.
+request_234,184.53,affordable_later,wait,2026-09-13:1213.3,2026-09-13,none,Wait until 2026-09-13 to pay EUR 1213.3 safely. Forecast keeps at least EUR 700 available.
+request_235,967.2,affordable_now,full_payment,2024-09-06:967.2,2024-09-06,none,Pay USD 967.2 today. Forecast keeps at least USD 700 available.
+request_236,5999077.82,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 16768600 available.
+request_237,23826000.0,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,Pay IDR 23826000 today. Forecast keeps at least IDR 22431500 available.
+request_238,663.6,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,2024-12-07,none,Use the supplied installment schedule starting 2024-12-07. Forecast keeps at least USD 700 available.
+request_239,642.0,affordable_now,full_payment,2025-05-04:642,2025-05-04,none,Pay USD 642 today. Forecast keeps at least USD 600 available.
+request_240,14123.82,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 52800 available.
+request_241,21052000.0,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,2024-03-03,none,Use the supplied installment schedule starting 2024-03-17. Forecast keeps at least IDR 19252000 available.
+request_242,0.0,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 600 available.
+request_243,17468.0,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,Pay ZAR 17468 today. Forecast keeps at least ZAR 19900 available.
+request_244,49918.0,affordable_now,full_payment,2024-06-04:49918,2024-06-04,none,Pay ZAR 49918 today. Forecast keeps at least ZAR 45900 available.
+request_245,30178.43,affordable_later,wait,2026-01-13:128500,2026-01-13,none,Wait until 2026-01-13 to pay INR 128500 safely. Forecast keeps at least INR 94600 available.
+request_246,64086.0,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,Use the supplied installment schedule starting 2026-04-03. Forecast keeps at least ZAR 39300 available.
+request_247,1059.3,affordable_now,full_payment,2024-09-05:1059.3,2024-09-05,none,Pay EUR 1059.3 today. Forecast keeps at least EUR 1300 available.
+request_248,1131.93,affordable_with_plan,partial_payment,2025-02-07:1131.93|2025-03-19:833.67,2025-03-19,none,Pay USD 1131.93 today and the balance on 2025-03-19. Forecast keeps at least USD 1300 available.
+request_249,129.91,affordable_later,wait,2026-03-15:643.2,2026-03-15,none,Wait until 2026-03-15 to pay USD 643.2 safely. Forecast keeps at least USD 600 available.
+request_250,15777.63,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 35300 available.
+request_251,1513.6,not_affordable,not_recommended,none,2025-05-03,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1300 available.
+request_252,3734592.38,affordable_later,wait,2026-09-13:28082000,2026-09-13,none,Wait until 2026-09-13 to pay IDR 28082000 safely. Forecast keeps at least IDR 15152200 available.
+request_253,1364.18,affordable_with_plan,installments,2024-03-21:984.6|2024-04-21:984.6|2024-05-22:984.6,2024-05-18,none,Use the supplied installment schedule starting 2024-03-21. Forecast keeps at least EUR 2300 available.
+request_254,871.67,affordable_later,wait,2025-10-13:3535.2,2025-10-13,none,Wait until 2025-10-13 to pay USD 3535.2 safely. Forecast keeps at least USD 2500 available.
+request_255,3345000.0,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,Pay IDR 3345000 today. Forecast keeps at least IDR 9813900 available.
+request_256,160667.51,affordable_with_plan,installments,2024-06-10:75816|2024-07-11:75816|2024-08-11:75816,2024-07-14,none,Use the supplied installment schedule starting 2024-06-10. Forecast keeps at least INR 168600 available.
+request_257,359.49,not_affordable,not_recommended,none,2026-01-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 1600 available.
+request_258,1113.6,affordable_now,full_payment,2026-01-07:1113.6,2026-01-07,none,Pay USD 1113.6 today. Forecast keeps at least USD 500 available.
+request_259,447.88,affordable_later,wait,2024-11-13:935,2024-11-13,none,Wait until 2024-11-13 to pay EUR 935 safely. Forecast keeps at least EUR 600 available.
+request_260,7313125.3,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least IDR 20727700 available.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.4,2026-07-03,none,Pay EUR 1830.4 today. Forecast keeps at least EUR 1500 available.
+request_262,9236000.0,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,Pay IDR 9236000 today. Forecast keeps at least IDR 31018500 available.
+request_263,6184.13,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 24100 available.
+request_264,22367.62,affordable_later,wait,2026-06-13:111300,2026-06-13,none,Wait until 2026-06-13 to pay INR 111300 safely. Forecast keeps at least INR 59500 available.
+request_265,45970.0,affordable_now,full_payment,2024-03-06:45970,2024-03-06,none,Pay INR 45970 today. Forecast keeps at least INR 189700 available.
+request_266,935.0,affordable_with_plan,installments,2025-08-03:324.13|2025-08-31:324.13|2025-09-28:324.13,2025-08-03,none,Use the supplied installment schedule starting 2025-08-03. Forecast keeps at least EUR 900 available.
+request_267,1614.69,not_affordable,not_recommended,none,2026-03-15,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1500 available.
+request_268,1039.42,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-07-14,none,Use the supplied installment schedule starting 2024-06-14. Forecast keeps at least EUR 1400 available.
+request_269,0.0,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least ZAR 23100 available.
+request_270,95.72,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least USD 1400 available.
+request_271,5514.76,not_affordable,not_recommended,none,,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least INR 58200 available.
+request_272,5987561.54,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,2025-03-16,none,Use the supplied installment schedule starting 2025-02-12. Forecast keeps at least IDR 7508600 available.
+request_273,9484617.27,affordable_with_plan,partial_payment,2026-04-07:9484617.27|2026-04-14:6376382.73,2026-04-14,none,Pay IDR 9484617.27 today and the balance on 2026-04-14. Forecast keeps at least IDR 18774600 available.
+request_274,2086.07,not_affordable,not_recommended,none,2025-02-16,none,The request cannot be completed safely within the 90-day forecast. Forecast keeps at least EUR 1800 available.
+request_275,15884000.0,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,Pay IDR 15884000 today. Forecast keeps at least IDR 12760100 available.
