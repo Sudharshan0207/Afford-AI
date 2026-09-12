@@ -447,30 +447,6 @@ Important scoring areas include:
 
 ---
 
-## Token Usage & Cost
-
-If the solution uses an AI model, the final submission must include:
-
-```text
-evaluation/usage_report.md
-```
-
-The report should document:
-
-* Model provider
-* Model name
-* Number of model calls
-* Input tokens
-* Output tokens
-* Total tokens
-* Average tokens per request
-* Estimated total cost
-* Estimated cost per request
-
-The reported figures should correspond to the final full-dataset run used to generate `output.csv`.
-
----
-
 ## Chat Transcript
 
 AI-assisted development is logged in:
@@ -479,30 +455,10 @@ AI-assisted development is logged in:
 log.txt
 ```
 
-The transcript is maintained at the repository root and should be included with the submission when required.
+The transcript is maintained at the repository root and should be included with the submission
 
 Do not place secrets, API keys, passwords or other sensitive credentials in the transcript.
 
----
-
-## Submission Checklist
-
-Before submitting the solution:
-
-* [ ] `code/main.py` runs successfully
-* [ ] `dataset/` contains the required input data
-* [ ] `output.csv` is generated in the repository root
-* [ ] Output contains one row for every request
-* [ ] Output contains the exact required columns
-* [ ] `amount_safe_to_pay` satisfies the required bounds
-* [ ] Installment plans match supplied payment options
-* [ ] Spending changes only modify flexible recurring expenses
-* [ ] `evaluation/usage_report.md` is included
-* [ ] No secrets are hardcoded
-* [ ] `code.zip` contains the complete runnable solution
-* [ ] `log.txt` is included when required
-
-The challenge dataset contains **250 requests**, so the final `output.csv` should contain **250 prediction rows plus the header**.
 
 ---
 
@@ -519,10 +475,4 @@ Instead, it answers:
 That distinction is the core of the Buy-or-Wait decision engine.
 
 ---
-
-## License
-
-This repository is intended for the associated challenge/project submission.
-
-Refer to the challenge instructions and repository terms for applicable usage and submission requirements.
 
